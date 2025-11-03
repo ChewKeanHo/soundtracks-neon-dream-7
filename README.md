@@ -1,19 +1,25 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Neon Dreams 7 | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Let's try a sudden cliff hanging technique for ending. This should be very
+useful for marking and context switching in video production.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #pop #rnb #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/Neon-Dreams-7.mp3
+  Size: 8556544         Blocks: 16712      IO Block: 4096   regular file
+Access: 2025-11-03 14:00:25.651428221 +0800
+Modify: 2025-11-03 14:00:30.219448884 +0800
+Change: 2025-11-03 14:00:30.219448884 +0800
+ Birth: 2025-07-20 11:53:47.274247925 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-05-08
+On YouTube since : 2025-08-23
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=bJfkN9qdY8w)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +52,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Neon Dreams 7
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-neon-dreams-7
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
