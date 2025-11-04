@@ -1,4 +1,4 @@
-# Neon Dreams 7 | (Holloway) Chew, Kean Ho's Soundtracks
+# Neon Dream 7 | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
@@ -8,11 +8,13 @@ useful for marking and context switching in video production.
 ```
 #electronicmusic #soundtrack #pop #rnb #femalevocal
 
-  File: Audios/Neon-Dreams-7.mp3
+  File: Audios/Neon-Dream-7.mp3
   Size: 8556544         Blocks: 16712      IO Block: 4096   regular file
-Access: 2025-11-03 14:00:25.651428221 +0800
-Modify: 2025-11-03 14:00:30.219448884 +0800
-Change: 2025-11-03 14:00:30.219448884 +0800
+Device: 253,2   Inode: 40773597    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
+Access: 2025-11-04 07:47:24.699057131 +0800
+Modify: 2025-11-04 07:47:22.235045653 +0800
+Change: 2025-11-04 09:54:15.501655472 +0800
  Birth: 2025-07-20 11:53:47.274247925 +0800
 
 On Published Date: 2025-05-08
@@ -52,9 +54,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : Neon Dreams 7
+Title  : Neon Dream 7
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-neon-dreams-7
+SKU    : chewkeanho-soundtracks-neon-dream-7
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
