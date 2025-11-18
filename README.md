@@ -8,13 +8,11 @@ useful for marking and context switching in video production.
 ```
 #electronicmusic #soundtrack #pop #rnb #femalevocal
 
-  File: Audios/Neon-Dream-7.mp3
+  File: Audios/07_Neon-Dream-7.mp3
   Size: 8556544         Blocks: 16712      IO Block: 4096   regular file
-Device: 253,2   Inode: 40773597    Links: 1
-Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
-Access: 2025-11-04 07:47:24.699057131 +0800
+Access: 2025-11-18 09:24:40.072714928 +0800
 Modify: 2025-11-04 07:47:22.235045653 +0800
-Change: 2025-11-04 09:54:15.501655472 +0800
+Change: 2025-11-18 06:29:41.534546823 +0800
  Birth: 2025-07-20 11:53:47.274247925 +0800
 
 On Published Date: 2025-05-08
@@ -34,6 +32,7 @@ On YouTube since : 2025-08-23
 * [Agreed OBS Waveform License](.internals/terms-of-services/OBS_Waveform_LICENSE.txt)
 * [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf)
 * [Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+* [20251030 UDIO Severances](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 
 
 
@@ -54,11 +53,14 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : Neon Dream 7
-Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-neon-dream-7
-License: (Holloway) Chew, Kean Ho's Proprietary License
-Procure: Coming Soon
+Title: Neon Dream 7
+Creators: (Holloway) Chew, Kean Ho + UDIO
+Contact: hello@hollowaykeanho.com
+SKU: chewkeanho-soundtracks-neon-dream-7
+License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Made On: 2025-10-29 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
+Procure: https://github.com/ChewKeanHo/soundtracks-neon-dream-7
 --------------------------------------------------------------------------------
 ```
 
